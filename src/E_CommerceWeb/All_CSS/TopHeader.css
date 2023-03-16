@@ -1,0 +1,31 @@
+/* @media screen and (max-width: 576px) {
+  .myfont {
+    width: 100%;
+  }
+} */
+
+.TopHeader_bg_clr {
+  background-color: #ecf3fc !important;
+}
+.TopHeader_font {
+  font-size: 17px;
+}
+.TopHeader_phoneIcone {
+  margin-right: 10px;
+}
+.dropdown-menu {
+  min-width: 3rem;
+  padding: 0.1rem 0;
+}
+.dropdown-item {
+  padding: 0 0.5rem;
+}
+.TopHeaderIcons {
+  width: 30px;
+  background-color: #183661;
+  color: white;
+  margin: 0 5px;
+  border-radius: 29px 34px 0 26px;
+  /* border-radius: 100%; */
+  padding: 3px 0px;
+}
